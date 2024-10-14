@@ -16,8 +16,8 @@ app = Flask(__name__)
 rutas_csv = {
     "aguascalientes": {
         "catalogo": r"data/aguascalientes/catalogo/archivo_catalogo.csv",
-        #"conjunto_de_datos": r"archivo_conjunto.csv",
-        "diccionario_datos": r"archivo_diccionario.csv"
+        #"conjunto_de_datos": r"data/aguascalientes/diccionario_datos/archivo_conjunto.csv",
+        "diccionario_datos": r"data/aguascalientes/diccionario_datos/archivo_diccionario.csv"
     },
     "guanajuato": {
         "catalogo": r"archivo_catalogo.csv",
