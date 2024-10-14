@@ -15,7 +15,7 @@ app = Flask(__name__)
 # Define las rutas a los archivos CSV en diferentes subcarpetas
 rutas_csv = {
     "aguascalientes": {
-        "catalogo": r"archivo_catalogo.csv",
+        "catalogo": r"data/aguascalientes/catalogo/archivo_catalogo.csv",
         #"conjunto_de_datos": r"archivo_conjunto.csv",
         "diccionario_datos": r"archivo_diccionario.csv"
     },
