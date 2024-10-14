@@ -20,19 +20,19 @@ rutas_csv = {
         "diccionario_datos": r"data/aguascalientes/diccionario_datos/archivo_diccionario.csv"
     },
     "guanajuato": {
-        "catalogo": r"archivo_catalogo.csv",
+        "catalogo": r"data/guanajuato/catalogo/archivo_catalogo.csv",
         "conjunto_de_datos": r"archivo_conjunto.csv",
-        "diccionario_datos": r"archivo_diccionario.csv"
+        "diccionario_datos": r"data/guanajuato/diccionario_datos/archivo_diccionario.csv"
     },
     "jalisco": {
-        "catalogo": r"catalogos/archivo_catalogo.csv",
+        "catalogo": r"data/jalisco/catalogo/catalogos/archivo_catalogo.csv",
         "conjunto_de_datos": r"archivo_conjunto.csv",
-        "diccionario_datos": r"archivo_diccionario.csv"
+        "diccionario_datos": r"data/jalisco/diccionario_datos/archivo_diccionario.csv"
     },
     "oaxaca": {
-        "catalogo": r"archivo_catalogo.csv",
+        "catalogo": r"data/oaxaca/catalogo/catalogos/archivo_catalogo.csv",
         "conjunto_de_datos": r"archivo_conjunto.csv",
-        "diccionario_datos": r"archivo_diccionario.csv"
+        "diccionario_datos": r"data/oaxaca/diccionario_datos/archivo_diccionario.csv"
     }
 }
 
